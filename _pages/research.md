@@ -1,5 +1,5 @@
 ---
-title: "research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ Revised and Resubmitted to <i>Information System Research</i>
 
 
 # Working in progress
-<br><b>Text-based Measures of Information Diversity: A Deep Learning Approach</b> 
+<b>Text-based Measures of Information Diversity: A Deep Learning Approach</b> 
 <br><b>Kai Zhu</b>, Dylan Walker
 
 <br><b>Measuring the Real-World Impact of Fact Checking in Combating Online Misinformation</b> 
@@ -28,7 +28,7 @@ Revised and Resubmitted to <i>Information System Research</i>
 
 
 # Publications in Computer Science
-<br><b>Attribute Reduction Approaches for General Relation Decision Systems</b> 
+<b>Attribute Reduction Approaches for General Relation Decision Systems</b> 
 <br>Liu, Guilong, Ling Li, Jitao Yang, Yanbin Feng, and <b>Kai Zhu</b>. <i>Pattern Recognition Letters</i> 65 (2015): 81-87
 
 <br><b>The Relationship Among Three Types of rough Approximation Pairs</b> 
