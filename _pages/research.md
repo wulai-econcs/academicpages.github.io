@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working Papers
+# <span style="color:blue">Working Papers</span>
 <b>Content Growth and Attention Contagion: A Natural Experiment on Wikipedia</b>
 <br><b>Kai Zhu</b>, Dylan Walker, and Lev Muchnik.
 Revised and Resubmitted to <i>Information System Research</i>
