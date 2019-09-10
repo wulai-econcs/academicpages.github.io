@@ -1,16 +1,16 @@
 ---
-layout: archive
-title: "Papers"
+title: ""
 permalink: /papers/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Working papers
+<br><b>“Content Growth and Attention Contagion: A Natural Experiment on Wikipedia</b></br>
+<b>Kai Zhu</b>, Dylan Walker, and Lev Muchnik.
+Revised and Resubmitted to <i>Information System Research</i>
 
-{% include base_path %}
 
-{% for post in site.papers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Working in progress
+
+
+## Publications in Computer Science
